@@ -1,0 +1,16 @@
+.footer-container {
+	height: 50px;
+	border-radius: 0px;
+	position: fixed;
+	bottom: 0px;
+	width: 100%;
+	left: 0px;
+}
+
+.navbar.footer-container {
+	margin-bottom: 0px;
+}
+
+.footer-container p {
+	margin: 8px;
+}
